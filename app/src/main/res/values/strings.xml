@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Session</string>
+    <string name="posts">Posts</string>
+    <string name="post_comments">Post Comments</string>
+</resources>
